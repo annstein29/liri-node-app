@@ -66,4 +66,4 @@ node install
 
 Look at the mp4 below on the execution details
 
-/liri-node-app-anna.mp4
+<a target="_blank" href="/liri-node-app-anna.mp4">liri-node-app-anna.mp4</a>
