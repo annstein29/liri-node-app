@@ -9,7 +9,7 @@ Feel free to use any of this code if you're working on a similar project.
 Project Overview
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface.
 
-v1 (liri.js)
+liri.js
 A command line Node app that takes in parameters and returns data from the following APIs: Bandsintown, Spotify and OMDb.
 
 How it works (v1)
@@ -63,6 +63,7 @@ SPOTIFY_ID="<--YOUR_KEY_HERE-->"
 SPOTIFY_SECRET="<--YOUR_KEY_HERE-->"
 Then run the following command to install the requied node packages
 node install
-Look at the below GIF's on the execution details
-v1 (liri.js) liri-execution-gif
 
+Look at the mp4 below on the execution details
+
+/liri-node-app-anna.mp4

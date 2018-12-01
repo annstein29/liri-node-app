@@ -382,3 +382,360 @@ Plot: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in the
 Cast: Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe 
 --------------------------------------------------------------------------------']
 ['Command: do-what-it-says', 'spotify-this-song,"I Want it That Way"']
+['Command: concertInfo', '
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Sunrise, FL 
+Date: 03/01/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Tampa, FL 
+Date: 03/03/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Jacksonville, FL 
+Date: 03/05/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Columbia, SC 
+Date: 03/07/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Charlotte, NC 
+Date: 03/09/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Nashville, TN 
+Date: 03/10/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Atlanta, GA 
+Date: 03/12/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Birmingham, AL 
+Date: 03/14/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Bossier City, LA 
+Date: 03/16/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: New Orleans, LA 
+Date: 03/17/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Houston, TX 
+Date: 03/19/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: San Antonio, TX 
+Date: 03/21/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Oklahoma City, OK 
+Date: 03/23/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Dallas, TX 
+Date: 03/24/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Glendale, AZ 
+Date: 03/30/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Denver, CO 
+Date: 04/01/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Salt Lake City, UT 
+Date: 04/03/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Vancouver, Canada 
+Date: 04/05/2019
+--------------------------------------------------------------------------------
+Venue: Pepsi Live at Rogers Arena 
+Location: Vancouver, Canada 
+Date: 04/06/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Portland, OR 
+Date: 04/08/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Sacramento, CA 
+Date: 04/10/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Las Vegas, NV 
+Date: 04/12/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: San Jose, CA 
+Date: 04/17/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Los Angeles, CA 
+Date: 04/19/2019
+--------------------------------------------------------------------------------
+Venue: Little Caesars Arena  
+Location: Detroit, MI 
+Date: 04/26/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Detroit, MI 
+Date: 04/27/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Indianapolis, IN 
+Date: 04/30/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Milwaukee, WI 
+Date: 05/02/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Fargo, ND 
+Date: 05/04/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: St Paul, MN 
+Date: 05/05/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Omaha, NE 
+Date: 05/07/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Lexington, KY 
+Date: 05/09/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Columbus, OH 
+Date: 05/11/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Toronto, Canada 
+Date: 05/13/2019
+--------------------------------------------------------------------------------
+Venue: Scotiabank Arena 
+Location: Toronto, Canada 
+Date: 05/14/2019
+--------------------------------------------------------------------------------
+Venue: Bell Centre  
+Location: Montreal, Canada 
+Date: 05/17/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: Montreal, Canada 
+Date: 05/18/2019
+--------------------------------------------------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR 
+Location: New York, NY 
+Date: 05/21/2019
+--------------------------------------------------------------------------------
+Venue: Madison Square Garden 
+Location: New York, NY 
+Date: 05/22/2019
+--------------------------------------------------------------------------------
+Venue: Johan Cruijff Stadium 
+Location: Amsterdam, Netherlands 
+Date: 06/16/2019
+--------------------------------------------------------------------------------
+Venue: RDS 
+Location: Dublin, Ireland 
+Date: 06/18/2019
+--------------------------------------------------------------------------------
+Venue: Principality Stadium 
+Location: Cardiff, United Kingdom 
+Date: 06/20/2019
+--------------------------------------------------------------------------------
+Venue: Hampden Park 
+Location: Glasgow, United Kingdom 
+Date: 06/22/2019
+--------------------------------------------------------------------------------
+Venue: Hampden Park 
+Location: Glasgow, United Kingdom 
+Date: 06/23/2019
+--------------------------------------------------------------------------------
+Venue: Anfield Stadium 
+Location: Liverpool, United Kingdom 
+Date: 06/25/2019
+--------------------------------------------------------------------------------
+Venue: Rock Werchter Festival  
+Location: Werchter, Belgium 
+Date: 06/27/2019
+--------------------------------------------------------------------------------
+Venue: Wembley Stadium 
+Location: London, United Kingdom 
+Date: 06/29/2019
+--------------------------------------------------------------------------------
+Venue: Wembley Stadium 
+Location: London, United Kingdom 
+Date: 06/30/2019
+--------------------------------------------------------------------------------
+Venue: La Defense Arena 
+Location: Paris, France 
+Date: 07/03/2019
+--------------------------------------------------------------------------------
+Venue: Rhein Energie Stadion 
+Location: Cologne, Germany 
+Date: 07/05/2019
+--------------------------------------------------------------------------------
+Venue: Rhein Energie Stadion 
+Location: Cologne, Germany 
+Date: 07/06/2019
+--------------------------------------------------------------------------------
+Venue: Volksparkstadion 
+Location: Hamburg, Germany 
+Date: 07/08/2019
+--------------------------------------------------------------------------------
+Venue: Mercedes-Benz Arena 
+Location: Stuttgart, Germany 
+Date: 07/10/2019
+--------------------------------------------------------------------------------
+Venue: HDI Arena 
+Location: Hannover, Germany 
+Date: 07/12/2019
+--------------------------------------------------------------------------------
+Venue: Olympiastadion Berlin 
+Location: Berlin, Germany 
+Date: 07/14/2019
+--------------------------------------------------------------------------------
+Venue: PGE Narodowy Stadium 
+Location: Warsaw, Poland 
+Date: 07/20/2019
+--------------------------------------------------------------------------------
+Venue: Commerzbank Arena 
+Location: Frankfurt, Germany 
+Date: 07/22/2019
+--------------------------------------------------------------------------------
+Venue: Ernst Happel Stadium 
+Location: Wien, Austria 
+Date: 07/24/2019
+--------------------------------------------------------------------------------
+Venue: Olympiastadion Munchen 
+Location: München, Germany 
+Date: 07/26/2019
+--------------------------------------------------------------------------------
+Venue: Olympiastadion Munchen 
+Location: München, Germany 
+Date: 07/27/2019
+--------------------------------------------------------------------------------
+Venue: Letzigrund Stadium 
+Location: Zürich, Switzerland 
+Date: 07/30/2019
+--------------------------------------------------------------------------------
+Venue: Tele2 Arena 
+Location: Stockholm, Sweden 
+Date: 08/03/2019
+--------------------------------------------------------------------------------
+Venue: Telenor Arena 
+Location: Oslo, Norway 
+Date: 08/05/2019
+--------------------------------------------------------------------------------
+Venue: Stadium Casa Arena 
+Location: Horsens, Denmark 
+Date: 08/07/2019
+--------------------------------------------------------------------------------
+Venue: Rock in Rio 
+Location: Rio De Janeiro, Brazil 
+Date: 10/05/2019']
+['Command: concertInfo', '
+--------------------------------------------------------------------------------
+Venue: Mandalay Bay Events Center 
+Location: Las Vegas, NV 
+Date: 12/30/2018
+--------------------------------------------------------------------------------
+Venue: Mandalay Bay Events Center 
+Location: Las Vegas, NV 
+Date: 12/31/2018
+--------------------------------------------------------------------------------
+Venue: Brisbane Entertainment Centre 
+Location: Brisbane, Australia 
+Date: 02/19/2019
+--------------------------------------------------------------------------------
+Venue: Qudos Bank Arena 
+Location: Sydney, Australia 
+Date: 02/21/2019
+--------------------------------------------------------------------------------
+Venue: Rod Laver Arena 
+Location: Melbourne, Australia 
+Date: 02/22/2019
+--------------------------------------------------------------------------------
+Venue: Tokyo Dome 
+Location: Tokyo, Tokyo 
+Date: 02/25/2019
+--------------------------------------------------------------------------------
+Venue: Gocheok Sky Dome 
+Location: Seoul, South Korea 
+Date: 02/27/2019
+--------------------------------------------------------------------------------
+Venue: TBA 
+Location: Kaohsiung City, Taiwan 
+Date: 03/01/2019
+--------------------------------------------------------------------------------
+Venue: TBA 
+Location: Macau, Macau 
+Date: 03/03/2019
+--------------------------------------------------------------------------------
+Venue: SM Mall Of Asia 
+Location: Manila, Philippines 
+Date: 03/05/2019
+--------------------------------------------------------------------------------
+Venue: NATIONAL STADIUM 
+Location: Singapore, Singapore 
+Date: 03/07/2019
+--------------------------------------------------------------------------------
+Venue: CHALLENGER HALL 
+Location: Bangkok, Thailand 
+Date: 03/09/2019
+--------------------------------------------------------------------------------
+Venue: Mollenpark 
+Location: Aalborg, Denmark 
+Date: 06/01/2019
+--------------------------------------------------------------------------------
+Venue: Lanxess Arena 
+Location: Cologne, Germany 
+Date: 06/03/2019
+--------------------------------------------------------------------------------
+Venue: O2 ARENA 
+Location: Prague, Czech Republic 
+Date: 06/05/2019
+--------------------------------------------------------------------------------
+Venue: Tauron Arena 
+Location: Kraków, Poland 
+Date: 06/06/2019
+--------------------------------------------------------------------------------
+Venue: Ziggo Dome 
+Location: Amsterdam, Netherlands 
+Date: 06/10/2019
+--------------------------------------------------------------------------------
+Venue: AccorHotels Arena 
+Location: Paris, France 
+Date: 06/11/2019']
+['Command: spotify-this-song', '
+Artist: Kygo
+Song title: Happy Now (feat. Sandro Cavazza)
+Album name: Happy Now (feat. Sandro Cavazza)
+URL Preview: https://p.scdn.co/mp3-preview/a2c9677593d52774f89c7d2dd2e810ba4faac01c?cid=8056a7c6cd2b4246b24620a31b32abe0
+']
+['Command: spotify-this-song', '
+Artist: Kygo
+Song title: Happy Now (feat. Sandro Cavazza)
+Album name: Happy Now (feat. Sandro Cavazza)
+URL Preview: https://p.scdn.co/mp3-preview/a2c9677593d52774f89c7d2dd2e810ba4faac01c?cid=8056a7c6cd2b4246b24620a31b32abe0
+']
+['Command: movie-this', '
+--------------------------------------------------------------------------------
+Title: [1m[96mHarry Potter and the Deathly Hallows: Part 2[39m[22m 
+Released Year: 2011 
+IMDB Rating: 8.1/10 
+Rotten Tomatoes Score: 96% 
+Country Where Movie was Produced: USA, UK  
+Language: English 
+Plot: Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.  
+Cast: Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe 
+--------------------------------------------------------------------------------']
