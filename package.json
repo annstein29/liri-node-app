@@ -18,8 +18,12 @@
   },
   "homepage": "https://github.com/annstein29/liri-node-app#readme",
   "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.1",
     "dotenv": "^6.1.0",
+    "figlet": "^1.2.1",
     "inquirer": "^6.2.0",
+    "moment": "^2.22.2",
     "node-spotify-api": "^1.0.7",
     "require": "^2.4.20"
   }
